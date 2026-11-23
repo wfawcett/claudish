@@ -1,0 +1,6 @@
+node_modules/
+dist/
+install.sh
+build.sh
+*.log
+.DS_Store
